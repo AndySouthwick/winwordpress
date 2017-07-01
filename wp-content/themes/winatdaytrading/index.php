@@ -40,7 +40,7 @@ get_header(); ?>
                             <div class="row">
                                 <div class="col-md-3">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_97903565.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_97903565-300x213.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -50,7 +50,7 @@ get_header(); ?>
                                 </div>
                                  <div class="col-md-3">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_88185558.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_88185558-300x200.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -60,7 +60,7 @@ get_header(); ?>
                                 </div>
                                 <div class="col-md-3">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_107551065.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -70,7 +70,7 @@ get_header(); ?>
                                 </div>
                                 <div class="col-md-3">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_76528287.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
