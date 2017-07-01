@@ -7,7 +7,7 @@ get_header(); ?>
 
             <div class="row">
                 <div class="jtrondown">
-                        <h1 class="display-3 textblock">Get The Edge</h1>
+                        <h1 class="display-3 textblock"><?php bloginfo('name'); ?></h1>
                 </div>
             </div>
             <div class="row">
