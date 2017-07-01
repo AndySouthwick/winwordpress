@@ -28,7 +28,7 @@ get_header(); ?>
                         <label for="exampleInputEmail1">Email address</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
                         <br/>
-                        <button type="button submit" class="btn btn-success">Success</button>
+                        <button type="button submit" class="btn btn-warning">Success</button>
                         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                     </div>
                     </form>
