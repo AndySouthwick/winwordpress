@@ -5,6 +5,10 @@ html body{
   font-family: 'Titillium Web', sans-serif;
 }
 
+body{ overflow-x: hidden;
+    width: 100%;
+    }
+
 .bg-inverse{
     background:linear-gradient( rgba(39, 66, 4, 0), rgba(2, 9, 29, 0.75) );
 }
@@ -33,6 +37,7 @@ html body{
 .pagecontent{
   margin-top: 5em;
   position: relative;
+  width: 100%;
 }
 .second-block{
     background-color: black;
