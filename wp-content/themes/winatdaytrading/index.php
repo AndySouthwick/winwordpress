@@ -37,8 +37,8 @@ get_header(); ?>
     </div>
                     <div class="pagecontent">
                         <div class="fluid-container second-block">
-                            <div class="row">
-                                <div class="col-md-3">
+                            <div class="row ">
+                                <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_97903565-300x213.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
@@ -48,7 +48,7 @@ get_header(); ?>
                                         </div>
                                     </div>
                                 </div>
-                                 <div class="col-md-3">
+                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_88185558-300x200.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
@@ -58,7 +58,7 @@ get_header(); ?>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
@@ -68,7 +68,7 @@ get_header(); ?>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
