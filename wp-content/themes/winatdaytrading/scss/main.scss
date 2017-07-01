@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+html body{
+    margin-top: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.bg-inverse{
+    background:linear-gradient( rgba(39, 66, 4, 0), rgba(2, 9, 29, 0.75) );
+}
+.jumbotron{
+       background: url(/wp-content/uploads/2017/06/AdobeStock_158472971.jpeg);
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white !important;
+    padding-bottom: 45em;
+}
+.jtrondown{
+    margin-top:10em;
+}
+.textblock{
+    background:linear-gradient( rgba(1, 7, 10, 0.58), rgba(2, 9, 29, 0.75) );
+    padding:.3em;
+    color:#ffffff;
+}
+.pagecontent{
+  margin-top: 5em;
+  position: relative;
+}
+.second-block{
+    background-color: black;
+    padding: 10px;
+}
+.third-block{
+   
+     background-color:#171B1F;
+    padding: 5px;
+    color: rgba(247, 247, 249, 0.67);
+    padding:3em;
+    font-size:22px;
+    line-height: 40px;
+}
+
+.fourth-block{
+   
+    background-color:#c2ccc4;
+    padding: 5px;
+    color: #333;
+    padding:5em;
+    font-size: 18px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.fifth-block{
+    background-color:  #181818;
+    padding: 10px;
+    color: white;
+}
+
+.wa-title{
+    border-style: solid;
+    border-width: 10px 0 10px 10px;
+     border-image: linear-gradient(to bottom, green, blue) 1 100%;
+    padding-left: 15px;
+    font-weight: 100;
+}
+
+.quote {
+    background-image: url(http://winatdaytrading.dev/wp-content/uploads/2017/07/quote-mark.png);
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+img {
+    vertical-align: middle;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 60px;
+}
+
+ul{
+   list-style: none;
+}
+
+a{
+    color:#94A3A8;
+}
+
