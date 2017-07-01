@@ -713,7 +713,5 @@ __webpack_require__(3)
 //Require scripts
 __webpack_require__(4)
 
-__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"https://use.fontawesome.com/a509435f86.js\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()))
-
 /***/ })
 /******/ ]);

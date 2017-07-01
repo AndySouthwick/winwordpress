@@ -8,5 +8,3 @@ require('../style.css')
 
 //Require scripts
 require('./script')
-
-require('https://use.fontawesome.com/a509435f86.js')
