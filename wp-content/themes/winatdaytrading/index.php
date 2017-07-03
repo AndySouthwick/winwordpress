@@ -90,7 +90,7 @@ get_header(); ?>
 
                     <div class="fluid-container third-block">
 
-                        <div class="row">
+                        <div class="row ">
                         <div class="col-lg-6">
                            <h2 class="wa-title"> What is WinAtDayTrading?</h2>
                                  Integer facilisis ut purus eget sodales. Morbi fermentum varius rutrum. Sed lorem turpis, vulputate sit amet placerat eu, placerat et metus. Donec aliquet pharetra neque. Fusce in est felis. Pellentesque a placerat nisl. Morbi et libero eu orci hendrerit consectetur ac vitae sapien. Integer ultrices varius est, nec feugiat quam semper ut.
@@ -105,11 +105,10 @@ get_header(); ?>
                        
                             <h2> See What Some Of Our Students have To Say!</h2><hr/>
                        
-                        <div class="row">
-                            <div class="col-lg-3 quote "><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut ."</div>
-                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "</div>
-                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit ."</div>
-                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."</div>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-3 quote "><img src="wp-content/uploads/2017/07/Team-4-150x150.jpg" class="img-circle" alt="">"<h3>Josh Bingham</h3> <i>Tucson Arizona</i> <br/>"Learn the indicators. If you do, you'll never have to wory about money."</div>
+                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/Team-41-150x150.jpg" class="img-circle" alt="">"<h3>Jason Hyium</h3><i>Los Angeles California</i> <br/>"This group had trust in me as a new trader to follow their system which gave me the ability to get results."</div>
+                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/Development_Team_4-150x150.png" class="img-circle" alt=""><h3>Clinton Adnerson</h3><i>St Louis Missouri</i> <br/>"With thess elete indicators combined with the support of fellow traders, this has been a great experience"</div>
                         </div>
                     </div>
 
