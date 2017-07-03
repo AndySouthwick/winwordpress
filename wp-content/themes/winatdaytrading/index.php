@@ -39,8 +39,10 @@ get_header(); ?>
     </div>
                     <div class="pagecontent">
                         <div class="fluid-container second-block">
+                            <div class="row justify-content-center"><h2>FAQ</h2></div>
                             <div class="row ">
                                 <div class="col-md-3 d-flex justify-content-center">
+                                    
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_97903565-300x213.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">

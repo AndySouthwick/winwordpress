@@ -10,11 +10,11 @@
 
 <body <?php body_class(); ?>>
 
-<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse fixed-top">
+<nav class="navbar navbar-toggleable-md navbar-default bg-default fixed-top">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="<?php echo esc_url( home_url('/') ); ?>"><?php bloginfo('name'); ?></a>
+  <a class="navbar-brand" href="<?php echo esc_url( home_url('/') ); ?>"><img src="/wp-content/uploads/2017/07/winlogo-e1499103518219.png" alt=""> At Day Trading</a>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
 		<?php
       wp_nav_menu( array(
