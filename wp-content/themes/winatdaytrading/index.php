@@ -12,9 +12,10 @@ get_header(); ?>
             </div>
             <div class="row">
                 <div class="col-lg-8">
-                <video width="100%" controls>
+                <!--<video width="100%" controls>
                     <source src="wp-content/uploads/2017/07/3-Min-Video-Webinar-1.mp4" type="video/mp4">
-                 </video>
+                 </video>-->
+                 <iframe src="https://player.vimeo.com/video/209277371" width="940" height="529" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
 
                 <div class="col-md-3 offset-md-1 textblock" >
