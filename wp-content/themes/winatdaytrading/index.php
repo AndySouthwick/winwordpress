@@ -17,8 +17,8 @@ get_header(); ?>
                  </video>
                 </div>
 
-                <div class="col-md-4 textblock" >
-                <h1>Sign Up For Our Webinar</h1>
+                <div class="col-md-3 offset-md-1 textblock" >
+                <h1 align="center">Day Trading Webinar</h1>
                     <form>
                     <div class="form-group">
                         <label for="exampleInputEmail1">First Name</label>
