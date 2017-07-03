@@ -77,7 +77,7 @@ get_header(); ?>
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
-                                        <h4 class="card-title">Can I trade full time</h4>
+                                        <h4 class="card-title">Can I trade full time?</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                         <a href="#" class="btn btn-primary">Go somewhere</a>
                                         </div>
