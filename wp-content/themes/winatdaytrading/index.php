@@ -93,7 +93,7 @@ get_header(); ?>
                         <div class="row ">
                         <div class="col-lg-6">
                            <h2 class="wa-title"> What is WinAtDayTrading?</h2>
-In 2008, Day Trade Smart was created to help both individuals and business owners learn about insurance products. After seeing some success, our founders decided to invest their earnings into day trading accounts which they had already been trading actively for some time.
+In 2008, Win At Day Trading was created to help both individuals and business owners learn about insurance products. After seeing some success, our founders decided to invest their earnings into day trading accounts which they had already been trading actively for some time.
 
 In an attempt to understand day trading even further, our founders began networking with other day traders. They quickly found that many were not seeing the same success in the market. After researching the issues others were seeing in their trading, they came to the conclusion that lack of day trading success was correlated to a traders knowledge and understanding of the markets.
 
@@ -101,7 +101,7 @@ With this realization, an opportunity was recognized. We simply could not pass i
 
 We currently receive reports of traders who successfully utilize our proprietary system to make significant profits on a daily basis.                        </div>
                         <div class="col-lg-6">
-                            <img src="wp-content/uploads/2017/07/computer.png" alt="" width="600">
+                            <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600">
                         </div>
                         </div>
                     </div>
