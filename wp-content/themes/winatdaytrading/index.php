@@ -42,7 +42,7 @@ get_header(); ?>
                             <div class="row ">
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_97903565-300x213.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_97903565-300x213.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -52,7 +52,7 @@ get_header(); ?>
                                 </div>
                                  <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_88185558-300x200.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_88185558-300x200.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -62,7 +62,7 @@ get_header(); ?>
                                 </div>
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -72,7 +72,7 @@ get_header(); ?>
                                 </div>
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="http://winatdaytrading.dev/wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Card title</h4>
                                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -94,7 +94,7 @@ get_header(); ?>
                                  Integer facilisis ut purus eget sodales. Morbi fermentum varius rutrum. Sed lorem turpis, vulputate sit amet placerat eu, placerat et metus. Donec aliquet pharetra neque. Fusce in est felis. Pellentesque a placerat nisl. Morbi et libero eu orci hendrerit consectetur ac vitae sapien. Integer ultrices varius est, nec feugiat quam semper ut.
                         </div>
                         <div class="col-lg-6">
-                            <img src="http://winatdaytrading.dev/wp-content/uploads/2017/07/computer.png" alt="" width="600">
+                            <img src="wp-content/uploads/2017/07/computer.png" alt="" width="600">
                         </div>
                         </div>
                     </div>
@@ -104,10 +104,10 @@ get_header(); ?>
                             <h2> See What Some Of Our Students have To Say!</h2><hr/>
                        
                         <div class="row">
-                            <div class="col-lg-3 quote "><img src="http://winatdaytrading.dev/wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut ."</div>
-                            <div class="col-lg-3 quote"><img src="http://winatdaytrading.dev/wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "</div>
-                            <div class="col-lg-3 quote"><img src="http://winatdaytrading.dev/wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit ."</div>
-                            <div class="col-lg-3 quote"><img src="http://winatdaytrading.dev/wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."</div>
+                            <div class="col-lg-3 quote "><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut ."</div>
+                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "</div>
+                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit ."</div>
+                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/me-150x150.jpeg" class="img-circle" alt="">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."</div>
                         </div>
                     </div>
 
