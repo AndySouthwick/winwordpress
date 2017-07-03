@@ -92,14 +92,16 @@ get_header(); ?>
 
                         <div class="row ">
                         <div class="col-lg-6">
-                           <h2 class="wa-title"> What is WinAtDayTrading?</h2>
-In 2008, Win At Day Trading was created to help both individuals and business owners learn about insurance products. After seeing some success, our founders decided to invest their earnings into day trading accounts which they had already been trading actively for some time.
-
-In an attempt to understand day trading even further, our founders began networking with other day traders. They quickly found that many were not seeing the same success in the market. After researching the issues others were seeing in their trading, they came to the conclusion that lack of day trading success was correlated to a traders knowledge and understanding of the markets.
-
-With this realization, an opportunity was recognized. We simply could not pass it up. We developed a system that would educate traders to a level that made success more-than obtainable. Over time, this system was perfected until it became what you see here today.
-
-We currently receive reports of traders who successfully utilize our proprietary system to make significant profits on a daily basis.                        </div>
+                           <h2 class="wa-title"> Who is WinAtDayTrading?</h2>
+                           <p><b>2008</b> Win At Day Trading began training students how to day trade on the Forex Market using our 
+                            proprietary indicators. </p>
+                            <p><b>2012</b> Win At Day Trading launched their trader pro funding program. 
+                            This is a nine week extensive training, upon graduation the students trading gets funded. 
+                            The student keeps sixty percent of the profits and additional funds are added to the account quarterly
+                            when profitable. </p>
+                            <p><b>2016</b> Win At Day Trading introduced the executive program. After completion of this twelve week program we fly our students
+                            to our home office for one on one training and fund their account once training is completed. Trader executive students keep eighty percent of the profits</p>
+</div>
                         <div class="col-lg-6">
                             <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600">
                         </div>
