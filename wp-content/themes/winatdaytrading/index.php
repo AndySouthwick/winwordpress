@@ -12,7 +12,7 @@ get_header(); ?>
             </div>
             <div class="row">
                 <div class="col-lg-8">
-                        <iframe src="https://player.vimeo.com/video/125715418?autoplay=1&amp;title=0&amp;byline=0&amp;portrait=0" width="100%" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                      <iframe src="https://player.vimeo.com/video/125715418?autoplay=1&title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
 
                 <div class="col-md-4 textblock" >
