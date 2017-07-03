@@ -16,6 +16,7 @@ nav a{
 
 .navbar{
     padding:.9rem 1rem;
+    border-bottom-width: 1px;
 }
 .jumbotron{
        background: url(/wp-content/uploads/2017/07/bg.png);
@@ -36,9 +37,9 @@ nav a{
     margin-top:10em;
 }
 .textblock{
-    background:linear-gradient( rgba(1, 7, 10, 0.58), rgba(2, 9, 29, 0.09) );
     padding:.3em;
-    color:#ffffff;
+    color:#333;
+ background-color: rgba(238, 238, 238, 0.94);
 }
 .pagecontent{
   margin-top: 5em;
@@ -46,7 +47,7 @@ nav a{
   width: 100%;
 }
 .second-block{
-    background-color: #ECEAC3;
+    background-color: rgba(238, 238, 238, 0.94);
     padding: 10px;
 }
 .third-block{

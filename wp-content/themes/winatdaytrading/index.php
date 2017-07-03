@@ -7,7 +7,7 @@ get_header(); ?>
 
             <div class="row">
                 <div class="jtrondown">
-                        <h1 class="display-3 textblock"><?php bloginfo('name'); ?></h1>
+                        <h1 class="display-3"><?php bloginfo('name'); ?></h1>
                 </div>
             </div>
             <div class="row">
@@ -30,7 +30,7 @@ get_header(); ?>
                         <label for="exampleInputEmail1">Email address</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
                         <br/>
-                        <button type="button submit" class="btn btn-warning">Register</button>
+                        <button type="button submit" class="btn btn-success">Schedule My Webinar</button>
                         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                     </div>
                     </form>
@@ -39,7 +39,7 @@ get_header(); ?>
     </div>
                     <div class="pagecontent">
                         <div class="fluid-container second-block">
-                            <div class="row justify-content-center"><h2>FAQ</h2></div>
+                            <div class="row justify-content-center"><h2>FAQ</h2></div><hr/>
                             <div class="row ">
                                 <div class="col-md-3 d-flex justify-content-center">
                                     
