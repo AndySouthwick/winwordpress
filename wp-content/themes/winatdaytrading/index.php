@@ -42,7 +42,9 @@ get_header(); ?>
         <input class="infusion-field-input-container form-control" placeholder="Email" id="inf_field_Email" name="inf_field_Email" type="text" />
     </div>
     <div class="infusion-submit">
-        <input type="submit" value="Submit"  class="btn btn-success"/>
+        <input type="submit" value="Schedule My Webina"  class="btn btn-success"/>
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+
     </div>
 </form>
 
