@@ -46,7 +46,6 @@ get_header(); ?>
         <input type="submit" value="Submit"  class="btn btn-success"/>
     </div>
 </form>
-<script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
 
 
