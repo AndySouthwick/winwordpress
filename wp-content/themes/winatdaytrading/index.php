@@ -42,24 +42,14 @@ get_header(); ?>
         <input class="infusion-field-input-container form-control" placeholder="Email" id="inf_field_Email" name="inf_field_Email" type="text" />
     </div>
     <div class="infusion-submit">
+        <br/>
         <input type="submit" value="Schedule My Webinar"  class="btn btn-success"/>
         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 
     </div>
 </form>
 
-<form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/6eeeec81362b2b181b668586ef580792" class="infusion-form" method="POST">
-    <input name="inf_form_xid" type="hidden" value="6eeeec81362b2b181b668586ef580792" />
-    <input name="inf_form_name" type="hidden" value="Web Form submitted" />
-    <input name="infusionsoft_version" type="hidden" value="1.67.0.44" />
-    <div class="infusion-field">
-        <label for="inf_field_Email">Email *</label>
-        <input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
-    </div>
-    <div class="infusion-submit">
-        <input type="submit" value="Submit" />
-    </div>
-</form>
+
 <script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
 
