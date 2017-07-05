@@ -19,10 +19,6 @@
             wp_enqueue_script('tether');
             wp_register_script('bootstrap-js', 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js', false, '4.0.0-alpha.6', true);
             wp_enqueue_script('bootstrap-js');
-             wp_register_script('infusionsoft', 'https://fq248.infusionsoft.com/app/webTracking/getTrackingCode');
-                wp_enqueue_script('infusionsoft');
-                 wp_register_script('vimeo', 'https://a.remarketstats.com/px/smart/?c=21497cdde8ee8ee');
-                wp_enqueue_script('vimeo');
              wp_enqueue_script('bundle', get_template_directory_uri() . '/dist/bundle.js', false, null);
 	        
 
