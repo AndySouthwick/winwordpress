@@ -15,7 +15,7 @@ get_header(); ?>
                 <!--<video width="100%" controls>
                     <source src="wp-content/uploads/2017/07/3-Min-Video-Webinar-1.mp4" type="video/mp4">
                  </video>-->
-                 <iframe src="https://player.vimeo.com/video/209277371" width="100%" height="500" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                 <iframe src="https://player.vimeo.com/video/209277371" width="100%" height="400" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
 
                 <div class="col-md-3 offset-md-1 textblock" >
