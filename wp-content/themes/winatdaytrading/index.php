@@ -242,7 +242,7 @@ get_header(); ?>
                     </div>
                      <div class="row">
                          <div class="col-lg-12" align="center">
-                                @copy WinAtDayTrading.com All Rights Reserved
+                                &copy 2017 WinAtDayTrading.com All Rights Reserved
                          </div>
                         
                     </div>
