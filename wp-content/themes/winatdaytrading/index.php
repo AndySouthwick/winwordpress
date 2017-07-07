@@ -64,7 +64,7 @@ get_header(); ?>
                                 <div class="col-md-3 d-flex justify-content-center">
                                     
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_97903565-300x213.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_116289908.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Why Forex market?</h4>
                                         <p class="card-text"></p>
@@ -95,7 +95,7 @@ get_header(); ?>
 
                                  <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_88185558-300x200.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_113461072.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Why we let our students trade our money?</h4>
                                         <p class="card-text"></p>
@@ -126,7 +126,7 @@ get_header(); ?>
                                             </div>
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_58066765.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Forex Training and Support</h4>
                                         <p class="card-text"></p>
@@ -156,7 +156,7 @@ get_header(); ?>
                                             </div>
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
+                                            <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_128272338.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Can I trade full time?</h4>
                                         <p class="card-text"></p>
