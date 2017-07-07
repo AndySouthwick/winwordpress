@@ -79,11 +79,11 @@ get_header(); ?>
                                                 <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Why Forex market?/h4>
+                                                    <h4 class="modal-title" id="myModalLabel">Why Forex market?</h4>
                                                 </div>
                                                 <div class="modal-body">
                                                    <p>Largest traded market at 5.3 trillion a day.</p>
-                                                   <p>Ver flexible times to trade because markets are open 24 hours a day. A person can trade
+                                                   <p>Very flexible times to trade because markets are open 24 hours a day. A person can trade
                                                        any time around their busy schedule.
                                                    </p>
                                                    <p>Traders have the ability to be conservative on their trades</p>
@@ -108,10 +108,17 @@ get_header(); ?>
                                                 <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                    <h4 class="modal-title" id="myModalLabel">Why we let our students trade our money?</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    ...
+                                                   <p>Every trader has a limit when the risk is more than they are willing to take on individualy</p>
+                                                   <p>If we traded accounts with millions of dollars, Taking a loss could be significant</p>
+                                                   <p>When our students have been taught and educated to trade like us with our proprietary indicators our risk is 
+                                                       spread out across the board.
+                                                   </p>
+                                                   <p>Some of our money is in the Euro market while other monnies are in the Aussie market. Diversifying our invested 
+                                                    funds bring in higher returns than the typical investiment vehicles.</p>
+                                            
                                                 </div>
                                   
                                                 </div>
@@ -121,9 +128,9 @@ get_header(); ?>
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
-                                        <h4 class="card-title">Forex coaching</h4>
+                                        <h4 class="card-title">Forex Training and Support</h4>
                                         <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">Learn More</a>
+                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">Forex Training and Support</a>
                                         </div>
                                     </div>
                                 </div>
@@ -132,10 +139,17 @@ get_header(); ?>
                                                 <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                    <h4 class="modal-title" id="myModalLabel">Forex Training and Support</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    ...
+                                                   <p>Six to twelve weeks of training (one on one for two hours a week).</p>
+                                                   <p>Part of a comunity of traders</p>
+                                                   <p>Daily webinars with real time trading and education</p>
+                                                   <p>Proprietary indicatory with unmatched speed and accuracy</p>
+                                                   <p>Online chatroom posting real trades</p>
+                                                   <p>Mobile app with trading alerts</p>
+                                                   <p>Trained by coacehes with proven trading success</p>
+                                                    <p>Anyone can become a trader from any background</p>
                                                 </div>                             
                                                 </div>
                                             </div>
