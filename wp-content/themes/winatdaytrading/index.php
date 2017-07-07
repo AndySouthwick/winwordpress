@@ -53,10 +53,10 @@ get_header(); ?>
 <script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
                 </div>
-                 <div id="section"></div>
+                 
             </div>
            
-    </div>
+
                     <div class="pagecontent"  >
                         <div class="fluid-container second-block">
                             <div class="row justify-content-center main" id="faqsection"><h2>Frequently Asked Questions?</h2></div><hr/>
