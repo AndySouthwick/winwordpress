@@ -79,10 +79,14 @@ get_header(); ?>
                                                 <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                    <h4 class="modal-title" id="myModalLabel">Why Forex market?/h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    ...
+                                                   <p>Largest traded market at 5.3 trillion a day.</p>
+                                                   <p>Ver flexible times to trade because markets are open 24 hours a day. A person can trade
+                                                       any time around their busy schedule.
+                                                   </p>
+                                                   <p>Traders have the ability to be conservative on their trades</p>
                                                 </div>  
                                                 </div>
                                             </div>
