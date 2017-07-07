@@ -35,7 +35,7 @@
   // open the <ul>, set 'menu_class' and 'menu_id' values
   
   $wrap  =  '<ul id="%1$s" class="navbar-nav mr-auto mt-2 mt-lg-0 %2$s">%3$s';
-            if (is_page('home')){
+            if (is_page('/')){
               $wrap  .='<li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
             <a href="#faqsection" class="nav-link">FAQ</a>
             </li>';
