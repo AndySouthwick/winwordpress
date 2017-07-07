@@ -12,18 +12,12 @@ get_header();
                     	
                     	<div class="container">
                           
-                           <?php if ( have_posts() ) : while ( have_posts() ) : ?>
-                             <div class="row">
-                                <h1><?php the_title( );?></h1> 
-                           </div>
-                           <div class="row">
-                                <?php the_post(); ?>
-                           </div>
-                         
+ <?php while ( have_posts() ) : the_post(); ?>
+                    	<? the_title('<h3>', '</h3>'); ?>
+                          <p> <?php  the_content(); ?></p>
+                        <?php endwhile; ?>
 
-<?php endwhile; endif; ?>
-						
-                            </div>
+                        
                         </div>
                        
 
