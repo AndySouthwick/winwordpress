@@ -190,14 +190,13 @@ get_header(); ?>
                         <div class="row ">
                         <div class="col-lg-6">
                            <h2 class="wa-title"> Who is WinAtDayTrading?</h2>
-                           <p><b>2008</b> Win At Day Trading began training students how to day trade on the Forex Market using our 
-                            proprietary indicators. </p>
-                            <p><b>2012</b> Win At Day Trading launched their trader pro funding program. 
-                            This is a nine week extensive training, upon graduation the students trading gets funded. 
-                            The student keeps sixty percent of the profits and additional funds are added to the account quarterly
-                            when profitable. </p>
-                            <p><b>2016</b> Win At Day Trading introduced the executive program. After completion of this twelve week program we fly our students
-                            to our home office for one on one training and fund their account once training is completed. Trader executive students keep eighty percent of the profits</p>
+                            <b>Since 2008</b> we have taught everyday people the skills necessary to become successful day traders.  Whether they want to make a part time or full time income that up to them.  Over 90 % of our students become successful day traders winning at least 88% of their trades.  Our proprietary indicators give our students the edge necessary to successfully trade in today's markets.
+                            We teach our students one on one twice a week for 9 to 12 weeks which allows us to develop 
+                            their skills and create a personalized trading plan centered around our proprietary 
+                            indicators. Upon completion of the training we will fund our students day trading accounts to 
+                            jump start them into live trading.  We do quarterly reviews and if profitability is maintained
+                             we continue to add funds to their day trading account (up to $100,000) with our students 
+                             keeping 60 to 80% of the profits.  We are truly committed to our students success
 </div>
                         <div class="col-lg-6">
                             <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600">
