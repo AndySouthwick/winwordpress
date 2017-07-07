@@ -3,7 +3,7 @@ get_header(); ?>
 
 <div class="jumbotron jumbotron-fluid">
 </div>
-  <div class="container">
+  <div class="container main">
 
             <div class="row">
                 <div class="jtrondown">
@@ -52,58 +52,14 @@ get_header(); ?>
 
 <script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
-
-    <!--<form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
-         <div class="form-group">
-        <input name="inf_form_xid" type="hidden" value="d8c0aec2b125065607c18b779abb42a7" />
-        <input name="inf_form_name" type="hidden" value="Web Form submitted" />
-        <input name="infusionsoft_version" type="hidden" value="1.67.0.44" />
-        <div class="infusion-field">   
-            <label for="inf_field_FirstName">First Name *</label>
-            <input class="infusion-field-input-container form-control" placeholder="Enter First Name" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
-        </div>
-        <div class="infusion-field">   
-            <label for="inf_field_LastName">Last Name *</label>
-            <input class="infusion-field-input-container form-control" placeholder="Enter Last Name" id="inf_field_LastName" name="inf_field_LastName" type="text" />
-        </div>
-        <div class="infusion-field">   
-            <label for="inf_field_LastName">Phone *</label>
-            <input class="infusion-field-input-container form-control" placeholder="Enter Last Name" id="inf_field_Phone1" name="inf_field_Phone1" type="text" />
-        </div>
-    <div class="infusion-field">
-        <label for="inf_field_Email">Email *</label>
-        <input class="infusion-field-input-container form-control" id="inf_field_Email" name="inf_field_Email" type="text" />
-    </div>
-    <br/>
-    <div class="infusion-submit">
-        <input type="submit" value="Schedule My Webinar" class="btn btn-success"/>
-          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-    </div>
-    </div>
-</form>
-<script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>-->
-
-
-<!--
-                        <label for="exampleInputEmail1">First Name</label>
-                        <input type="text" class="form-control" id=""  placeholder="Enter First Name">
-                        <label for="exampleInputEmail1">Last Name</label>
-                        <input type="text" class="form-control" id=""  placeholder="Enter Last Name">
-                        <label for="exampleInputEmail1">Phone</label>
-                        <input type="text" class="form-control" id=""  placeholder="Enter Phone Number">
-                        <label for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                        <br/>
-                        <button type="button submit" class="btn btn-success">Schedule My Webinar</button>
-                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                    
-                    </form>-->
                 </div>
+                 <div id="section"></div>
             </div>
+           
     </div>
-                    <div class="pagecontent">
+                    <div class="pagecontent"  >
                         <div class="fluid-container second-block">
-                            <div class="row justify-content-center"><h2>Frequently Asked Questions?</h2></div><hr/>
+                            <div class="row justify-content-center main" id="faqsection"><h2>Frequently Asked Questions?</h2></div><hr/>
                             <div class="row ">
                                 <div class="col-md-3 d-flex justify-content-center">
                                     

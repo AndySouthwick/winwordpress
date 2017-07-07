@@ -5,19 +5,24 @@
  * @subpackage swickDevMedia
  * @since 2017
  */
-get_header();
+get_head();
 
 ?>
-<section class="main clear">
+
                     	
-                    	
-                        <?php while ( have_posts() ) : the_post(); ?>
-                    	<? the_title('<h3>', '</h3>'); ?>
- 
-                          <p> <?php  the_content(); ?></p>
-                        <?php endwhile; ?>
+                    	<div class="container">
+                            <div class="row">
+                           <?php if ( have_posts() ) : while ( have_posts() ) : 
+                           the_title( );
+                           the_post(); ?>
+
+<?php endwhile; endif; ?>
 						
-                    </section>
+                            </div>
+                        </div>
+                       
 
 
-<? get_footer(); ?>
+
+<?php 
+get_footer();

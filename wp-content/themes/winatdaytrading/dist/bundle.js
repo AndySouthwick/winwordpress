@@ -574,6 +574,31 @@ if(false) {
 /***/ (function(module, exports) {
 
 
+jQuery(function ($) {$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+})
 
 /***/ }),
 /* 5 */
@@ -584,7 +609,7 @@ exports = module.exports = __webpack_require__(0)(undefined);
 exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Titillium+Web);", ""]);
 
 // module
-exports.push([module.i, "html body {\n  margin-top: 0;\n  font-family: 'Titillium Web', sans-serif; }\n\nbody {\n  overflow-x: hidden;\n  width: 100%; }\n\n.bg-default {\n  background: linear-gradient(rgba(255, 255, 255, 0.85), #ffffff); }\n\nnav a {\n  color: #5d9fd9; }\n\n.navbar {\n  padding: .9rem 1rem;\n  border-bottom-width: 1px; }\n\n.jumbotron {\n  background: url(/wp-content/uploads/2017/07/bg.png);\n  position: fixed;\n  left: 0;\n  top: -100px;\n  right: 0;\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;\n  color: white !important;\n  padding-top: 50em;\n  background-repeat: no-repeat; }\n\n.jtrondown {\n  margin-top: 10em; }\n\n.textblock {\n  padding: .3em;\n  color: #333;\n  background-color: rgba(238, 238, 238, 0.58); }\n\n.pagecontent {\n  margin-top: 5em;\n  position: relative;\n  width: 100%; }\n\n.second-block {\n  background-color: rgba(238, 238, 238, 0.94);\n  padding: 10px; }\n\n.third-block {\n  background-color: #171B1F;\n  padding: 5px;\n  color: rgba(247, 247, 249, 0.67);\n  padding: 3em;\n  font-size: 22px;\n  line-height: 40px; }\n\n.fourth-block {\n  background-color: #c7c7c7;\n  padding: 5px;\n  color: #333;\n  padding: 5em;\n  font-size: 18px;\n  line-height: 40px;\n  font-weight: bold; }\n\n.fifth-block {\n  background-color: #181818;\n  padding: 10px;\n  color: white; }\n\n.wa-title {\n  border-style: solid;\n  border-width: 10px 0 10px 10px;\n  border-image: linear-gradient(to bottom, green, blue) 1 100%;\n  padding-left: 15px;\n  font-weight: 100; }\n\n.quote {\n  background-image: url(http://winatdaytrading.dev/wp-content/uploads/2017/07/quote-mark.png);\n  background-repeat: no-repeat;\n  padding: 15px; }\n\nimg {\n  vertical-align: middle; }\n\n.img-circle {\n  border-radius: 50%;\n  width: 60px; }\n\nul {\n  list-style: none; }\n\na {\n  color: #94A3A8; }\n", ""]);
+exports.push([module.i, "html body {\n  margin-top: 0;\n  font-family: 'Titillium Web', sans-serif; }\n\nbody {\n  overflow-x: hidden;\n  width: 100%; }\n\nbody, html, .main {\n  height: 100%;\n  padding-top: 2em; }\n\nsection {\n  min-height: 100%; }\n\n.bg-default {\n  background: linear-gradient(rgba(255, 255, 255, 0.85), #ffffff); }\n\nnav a {\n  color: #5d9fd9; }\n\n.navbar {\n  padding: .9rem 1rem;\n  border-bottom-width: 1px; }\n\n.jumbotron {\n  background: url(/wp-content/uploads/2017/07/bg.png);\n  position: fixed;\n  left: 0;\n  top: -100px;\n  right: 0;\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;\n  color: white !important;\n  padding-top: 50em;\n  background-repeat: no-repeat; }\n\n.jtrondown {\n  margin-top: 10em; }\n\n.textblock {\n  padding: .3em;\n  color: #333;\n  background-color: rgba(238, 238, 238, 0.58); }\n\n.pagecontent {\n  margin-top: 5em;\n  position: relative;\n  width: 100%; }\n\n.second-block {\n  background-color: rgba(238, 238, 238, 0.94);\n  padding: 10px; }\n\n.third-block {\n  background-color: #171B1F;\n  padding: 5px;\n  color: rgba(247, 247, 249, 0.67);\n  padding: 3em;\n  font-size: 22px;\n  line-height: 40px; }\n\n.fourth-block {\n  background-color: #c7c7c7;\n  padding: 5px;\n  color: #333;\n  padding: 5em;\n  font-size: 18px;\n  line-height: 40px;\n  font-weight: bold; }\n\n.fifth-block {\n  background-color: #181818;\n  padding: 10px;\n  color: white; }\n\n.wa-title {\n  border-style: solid;\n  border-width: 10px 0 10px 10px;\n  border-image: linear-gradient(to bottom, green, blue) 1 100%;\n  padding-left: 15px;\n  font-weight: 100; }\n\n.quote {\n  background-image: url(http://winatdaytrading.dev/wp-content/uploads/2017/07/quote-mark.png);\n  background-repeat: no-repeat;\n  padding: 15px; }\n\nimg {\n  vertical-align: middle; }\n\n.img-circle {\n  border-radius: 50%;\n  width: 60px; }\n\nul {\n  list-style: none; }\n\na {\n  color: #94A3A8; }\n", ""]);
 
 // exports
 
