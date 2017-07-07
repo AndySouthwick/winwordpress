@@ -198,7 +198,7 @@ get_header(); ?>
                                 keeping 60 to 80% of the profits.  We are truly committed to our students success
                             </div>
                             <div class="col-lg-6">
-                                <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600">
+                                <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600" class="compimg">
                             </div>
                         </div>
                     </div>
