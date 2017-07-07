@@ -16,6 +16,12 @@
           
               $wrap  .='<li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
             <a href="#faqsection" class="nav-link">FAQ</a>
+            </li>
+            <li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
+            <a href="#aboutsection" class="nav-link">About Us</a>
+            </li>
+            <li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
+            <a href="#testimonialsection" class="nav-link">Testimonials</a>
             </li>';
             
 

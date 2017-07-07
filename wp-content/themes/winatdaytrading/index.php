@@ -108,7 +108,7 @@ get_header(); ?>
                         </div>
                     </div>
 
-                    <div class="fluid-container third-block">
+                    <div class="fluid-container third-block" id="aboutsection">
 
                         <div class="row ">
                         <div class="col-lg-6">
@@ -128,7 +128,7 @@ get_header(); ?>
                         </div>
                     </div>
 
-                       <div class="fluid-container fourth-block" align="center">
+                       <div class="fluid-container fourth-block" align="center" id="testimonialsection">
                        
                             <h2> See What Some Of Our Students have To Say!</h2><hr/>
                        
