@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 
+
+
 html body{
     margin-top: 0;
   font-family: 'Titillium Web', sans-serif;
@@ -29,7 +31,7 @@ nav a{
     border-bottom-width: 1px;
 }
 .jumbotron{
-       background: url(/wp-content/uploads/2017/07/bg.png);
+    background: url(/wp-content/uploads/2017/07/bg.png);
     position: fixed;
     left: 0;
     top: -100px;
@@ -38,10 +40,9 @@ nav a{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    color: white !important;
     padding-top: 50em;
     background-repeat: no-repeat;
-    
+    z-index: -1,
 }
 .jtrondown{
     margin-top:10em;
@@ -53,7 +54,7 @@ nav a{
 }
 .pagecontent{
   margin-top: 5em;
-  position: relative;
+  position: reltive;
   width: 100%;
 }
 .second-block{
@@ -117,6 +118,17 @@ a{
     color:#94A3A8;
 }
 
-.container{
-      margin: 3em;
+.main{
+    margin-left: 8em;
+    margin-right: 8em;
+}
+@media only screen and (max-width: 500px) {
+    .pagecontent{
+  margin-top: 45em;
+  position: reltive;
+  width: 100%;}
+  .main{
+    margin-left: 0;
+    margin-right:0;
+}
 }

@@ -3,7 +3,7 @@ get_header(); ?>
 
 <div class="jumbotron jumbotron-fluid">
 </div>
-
+  <div class="fluid-container main">
 
             <div class="row">
                 <div class="jtrondown">
@@ -54,7 +54,7 @@ get_header(); ?>
 
                 </div>
                  
-            </div>
+            </div></div>
            
 
                     <div class="pagecontent"  >
