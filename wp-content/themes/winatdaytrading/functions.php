@@ -39,7 +39,9 @@
               $wrap  .='<li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
             <a href="#faqsection" class="nav-link">FAQ</a>
             </li>';
-            return $wrap;
+            return $wrap;   
+            }else{
+                return '';
             }
 
            $wrap .= '</ul>';
