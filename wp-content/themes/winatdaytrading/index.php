@@ -169,10 +169,13 @@ get_header(); ?>
                                                 <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                    <h4 class="modal-title" id="myModalLabel">Can I trade full time?/h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                    ...
+                                                   <p>Absolutely, however you will need to commit to trasnisitioning slowly. This is not a quick overnight solution to financial indipendenc. 
+                                                       Dont quit your full time job until you replace your income trading. When our traders get to this point, most of them continue to trade
+                                                       part ime and fill their time with something else.
+                                                   </p>
                                                 </div>
                                                 
                                                 </div>
