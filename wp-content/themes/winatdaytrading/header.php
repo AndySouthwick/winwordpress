@@ -7,6 +7,29 @@
 <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
 	<?php wp_head(); ?>
  
+  <?function my_nav_wrap() {
+  // default value of 'items_wrap' is <ul id="%1$s" class="%2$s">%3$s</ul>'
+  
+  // open the <ul>, set 'menu_class' and 'menu_id' values
+  
+  $wrap  =  '<ul id="%1$s" class="navbar-nav mr-auto mt-2 mt-lg-0 %2$s">%3$s';
+            if (is_page('home')){
+              $wrap  .='<li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
+            <a href="#faqsection" class="nav-link">FAQ</a>
+            </li>';
+            }else{
+                return '';
+            }
+
+           $wrap .= '</ul>';
+  
+  // get nav items as configured in /wp-admin/
+  // return the result
+  return $wrap;
+  
+  
+}
+?>
 </head>
 
 <body <?php body_class(); ?>>
