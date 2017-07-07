@@ -112,8 +112,8 @@ get_header(); ?>
                                                 </div>
                                                 <div class="modal-body">
                                                    <p>Every trader has a limit when the risk is more than they are willing to take on individualy</p>
-                                                   <p>If we traded accounts with millions of dollars, Taking a loss could be significant</p>
-                                                   <p>When our students have been taught and educated to trade like us with our proprietary indicators our risk is 
+                                                   <p>If we traded accounts with millions of dollars, taking a loss could be significant</p>
+                                                   <p>When our students have been taught and educated to trade like us combined with our proprietary indicators our risk is 
                                                        spread out across the board.
                                                    </p>
                                                    <p>Some of our money is in the Euro market while other monnies are in the Aussie market. Diversifying our invested 
@@ -130,7 +130,7 @@ get_header(); ?>
                                         <div class="card-block">
                                         <h4 class="card-title">Forex Training and Support</h4>
                                         <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">Forex Training and Support</a>
+                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -142,14 +142,13 @@ get_header(); ?>
                                                     <h4 class="modal-title" id="myModalLabel">Forex Training and Support</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                   <p>Six to twelve weeks of training (one on one for two hours a week).</p>
-                                                   <p>Part of a comunity of traders</p>
+                                                   <p>Nine to twelve weeks of training (one on one twice a week).</p>
+                                                   <p>Part of a community of traders</p>
                                                    <p>Daily webinars with real time trading and education</p>
-                                                   <p>Proprietary indicatory with unmatched speed and accuracy</p>
+                                                   <p>Proprietary indicators with unmatched speed and accuracy</p>
                                                    <p>Online chatroom posting real trades</p>
                                                    <p>Mobile app with trading alerts</p>
                                                    <p>Trained by coacehes with proven trading success</p>
-                                                    <p>Anyone can become a trader from any background</p>
                                                 </div>                             
                                                 </div>
                                             </div>
@@ -169,12 +168,12 @@ get_header(); ?>
                                                 <div class="modal-content">
                                                 <div class="modal-header">
                                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Can I trade full time?/h4>
+                                                    <h4 class="modal-title" id="myModalLabel">Can I trade full time?</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                   <p>Absolutely, however you will need to commit to trasnisitioning slowly. This is not a quick overnight solution to financial indipendenc. 
-                                                       Dont quit your full time job until you replace your income trading. When our traders get to this point, most of them continue to trade
-                                                       part ime and fill their time with something else.
+                                                   <p>Absolutely, however you will need to commit to trasnisitioning slowly. This is not a quick overnight solution to financial indipendence. 
+                                                       Don't quit your full time job until you replace your income trading. When our traders get to this point, most of them continue to trade
+                                                       part time and fill their time with something else.
                                                    </p>
                                                 </div>
                                                 
@@ -213,7 +212,7 @@ get_header(); ?>
                         <div class="row justify-content-center">
                             <div class="col-lg-3 quote "><img src="wp-content/uploads/2017/07/Team-4-150x150.jpg" class="img-circle" alt=""><h3>Josh Bingham</h3> <i>Tucson Arizona</i> <br/>"Learn the indicators. If you do, you'll never have to worry about money."</div>
                             <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/Team-41-150x150.jpg" class="img-circle" alt=""><h3>Jason Hyium</h3><i>Los Angeles California</i> <br/>"This group had trust in me as a new trader to follow their system which gave me the ability to get results."</div>
-                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/Development_Team_4-150x150.png" class="img-circle" alt=""><h3>Clinton Adnerson</h3><i>St Louis Missouri</i> <br/>"With thess elite indicators combined with the support of fellow traders, this has been a great experience"</div>
+                            <div class="col-lg-3 quote"><img src="wp-content/uploads/2017/07/Development_Team_4-150x150.png" class="img-circle" alt=""><h3>Clinton Adnerson</h3><i>St Louis Missouri</i> <br/>"With these elite indicators combined with the support of fellow traders, this has been a great experience"</div>
                         </div>
                     </div>
 
