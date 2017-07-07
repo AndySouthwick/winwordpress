@@ -38,7 +38,9 @@
             if (is_page('home')){
               $wrap  .='<li class=menu-item menu-item-type-post_type menu-item-object-page nav-item">
             <a href="#faqsection" class="nav-link">FAQ</a>
-            </li>';}
+            </li>';
+            return $wrap;
+            }
 
            $wrap .= '</ul>';
   
