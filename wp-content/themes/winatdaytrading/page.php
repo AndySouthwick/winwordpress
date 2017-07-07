@@ -11,10 +11,16 @@ get_header();
 
                     	
                     	<div class="container">
-                            <div class="row">
-                           <?php if ( have_posts() ) : while ( have_posts() ) : 
-                           the_title( );
-                           the_post(); ?>
+                          
+                           <?php if ( have_posts() ) : while ( have_posts() ) : ?>
+                             <div class="row">
+                                 <?
+                           the_title( );?>
+                           </div>
+                           <div class="row">
+                                <? the_post(); ?>
+                           </div>
+                         
 
 <?php endwhile; endif; ?>
 						
