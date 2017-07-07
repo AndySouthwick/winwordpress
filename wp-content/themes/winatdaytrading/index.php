@@ -3,7 +3,7 @@ get_header(); ?>
 
 <div class="jumbotron jumbotron-fluid">
 </div>
-  <div class="fluid-container main">
+<div class="fluid-container main">
 
             <div class="row">
                 <div class="jtrondown">
@@ -18,91 +18,90 @@ get_header(); ?>
                  <iframe src="https://player.vimeo.com/video/209277371" width="100%" height="440" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
 
-                <div class="col-md-3 offset-md-1 textblock" >
-                <h1 align="center">Day Trading Webinar</h1>
-                  
-<form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
-    <input name="inf_form_xid" type="hidden" value="d8c0aec2b125065607c18b779abb42a7" />
-    <input name="inf_form_name" type="hidden" value="Web Form submitted" />
-    <input name="infusionsoft_version" type="hidden" value="1.67.0.44" />
-    <div class="infusion-field">
-        <label for="inf_field_FirstName">First Name *</label>
-        <input class="infusion-field-input-container form-control" placeholder="Enter First Name" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
-    </div>
-    <div class="infusion-field">
-        <label for="inf_field_LastName">Last Name *</label>
-        <input class="infusion-field-input-container form-control" placeholder="Enter Last Name" id="inf_field_LastName" name="inf_field_LastName" type="text" />
-    </div>
-    <div class="infusion-field">
-        <label for="inf_field_Phone1">Phone*</label>
-        <input class="infusion-field-input-container form-control" placeholder="Phone" id="inf_field_Phone1" name="inf_field_Phone1" type="text" />
-    </div>
-    <div class="infusion-field">
-        <label for="inf_field_Email">Email *</label>
-        <input class="infusion-field-input-container form-control" placeholder="Email" id="inf_field_Email" name="inf_field_Email" type="text" />
-    </div>
-    <div class="infusion-submit">
-        <br/>
-        <input type="submit" value="Schedule My Webinar"  class="btn btn-success"/>
-        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                <div class="col-md-3 offset-md-1 textblock">
+                    <h1 align="center">Day Trading Webinar</h1>
+                    
+                    <form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
+                        <input name="inf_form_xid" type="hidden" value="d8c0aec2b125065607c18b779abb42a7" />
+                        <input name="inf_form_name" type="hidden" value="Web Form submitted" />
+                        <input name="infusionsoft_version" type="hidden" value="1.67.0.44" />
+                        <div class="infusion-field">
+                            <label for="inf_field_FirstName">First Name *</label>
+                            <input class="infusion-field-input-container form-control" placeholder="Enter First Name" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
+                        </div>
+                        <div class="infusion-field">
+                            <label for="inf_field_LastName">Last Name *</label>
+                            <input class="infusion-field-input-container form-control" placeholder="Enter Last Name" id="inf_field_LastName" name="inf_field_LastName" type="text" />
+                        </div>
+                        <div class="infusion-field">
+                            <label for="inf_field_Phone1">Phone*</label>
+                            <input class="infusion-field-input-container form-control" placeholder="Phone" id="inf_field_Phone1" name="inf_field_Phone1" type="text" />
+                        </div>
+                        <div class="infusion-field">
+                            <label for="inf_field_Email">Email *</label>
+                            <input class="infusion-field-input-container form-control" placeholder="Email" id="inf_field_Email" name="inf_field_Email" type="text" />
+                        </div>
+                        <div class="infusion-submit">
+                            <br/>
+                            <input type="submit" value="Schedule My Webinar"  class="btn btn-success"/>
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 
-    </div>
-</form>
-
-
-<script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
+                        </div>
+                    </form>
+                    <script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
                 </div>
                  
-            </div></div>
+            </div>
+ </div>
            
 
-                    <div class="pagecontent"  >
-                        <div class="fluid-container second-block">
-                            <div class="row justify-content-center main" id="faqsection"><h2>Frequently Asked Questions?</h2></div><hr/>
-                            <div class="row ">
-                                <div class="col-md-3 d-flex justify-content-center">
-                                    
-                                        <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_116289908.jpeg" alt="Card image cap" height="250">
-                                        <div class="card-block">
-                                        <h4 class="card-title">Why Forex market?</h4>
-                                        <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Learn More</a>
-                                        </div>
-                                    </div>
-                                </div>
+<div class="pagecontent">
+    <div class="fluid-container second-block">
+        <div class="row justify-content-center main" id="faqsection"><h2>Frequently Asked Questions?</h2></div><hr/>
+        <div class="row ">
+            <div class="col-md-3 d-flex justify-content-center">
+                
+                    <div class="card" style="width: 20rem;">
+                        <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_116289908.jpeg" alt="Card image cap" height="250">
+                    <div class="card-block">
+                    <h4 class="card-title">Why Forex market?</h4>
+                    <p class="card-text"></p>
+                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Learn More</a>
+                    </div>
+                </div>
+            </div>
 
-                                <!-- Modal -->
-                                            <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                                            <div class="modal-dialog" role="document">
-                                                <div class="modal-content">
-                                                <div class="modal-header">
-                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                                    <h4 class="modal-title" id="myModalLabel">Why Forex market?</h4>
-                                                </div>
-                                                <div class="modal-body">
-                                                   <p>Largest traded market at 5.3 trillion a day.</p>
-                                                   <p>Very flexible times to trade because markets are open 24 hours a day. A person can trade
-                                                       any time around their busy schedule.
-                                                   </p>
-                                                   <p>Traders have the ability to be conservative on their trades</p>
-                                                </div>  
-                                                </div>
-                                            </div>
-                                            </div>
+<!-- Modal -->
+            <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Why Forex market?</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Largest traded market at 5.3 trillion a day.</p>
+                    <p>Very flexible times to trade because markets are open 24 hours a day. A person can trade
+                        any time around their busy schedule.
+                    </p>
+                    <p>Traders have the ability to be conservative on their trades</p>
+                </div>  
+                </div>
+            </div>
+            </div>
 
 
-                                 <div class="col-md-3 d-flex justify-content-center">
-                                        <div class="card" style="width: 20rem;">
-                                            <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_113461072.jpeg" alt="Card image cap" height="250">
-                                        <div class="card-block">
-                                        <h4 class="card-title">Why we let our students trade our money?</h4>
-                                        <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">Learn More</a>
-                                        </div>
-                                    </div>
-                                </div>
+            <div class="col-md-3 d-flex justify-content-center">
+                <div class="card" style="width: 20rem;">
+                    <img class="card-img-top" src="wp-content/uploads/2017/07/AdobeStock_113461072.jpeg" alt="Card image cap" height="250">
+                    <div class="card-block">
+                        <h4 class="card-title">Why we let our students trade our money?</h4>
+                        <p class="card-text"></p>
+                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">Learn More</a>
+                    </div>
+                 </div>
+            </div>
                                             <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
                                             <div class="modal-dialog" role="document">
                                                 <div class="modal-content">
@@ -188,19 +187,19 @@ get_header(); ?>
                     <div class="fluid-container third-block" id="aboutsection">
 
                         <div class="row ">
-                        <div class="col-lg-6">
-                           <h2 class="wa-title"> Who is WinAtDayTrading?</h2>
-                            <b>Since 2008</b> we have taught everyday people the skills necessary to become successful day traders.  Whether they want to make a part time or full time income that up to them.  Over 90 % of our students become successful day traders winning at least 88% of their trades.  Our proprietary indicators give our students the edge necessary to successfully trade in today's markets.
-                            We teach our students one on one twice a week for 9 to 12 weeks which allows us to develop 
-                            their skills and create a personalized trading plan centered around our proprietary 
-                            indicators. Upon completion of the training we will fund our students day trading accounts to 
-                            jump start them into live trading.  We do quarterly reviews and if profitability is maintained
-                             we continue to add funds to their day trading account (up to $100,000) with our students 
-                             keeping 60 to 80% of the profits.  We are truly committed to our students success
-</div>
-                        <div class="col-lg-6">
-                            <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600">
-                        </div>
+                            <div class="col-lg-6">
+                            <h2 class="wa-title"> Who is WinAtDayTrading?</h2>
+                                <b>Since 2008</b> we have taught everyday people the skills necessary to become successful day traders.  Whether they want to make a part time or full time income that up to them.  Over 90 % of our students become successful day traders winning at least 88% of their trades.  Our proprietary indicators give our students the edge necessary to successfully trade in today's markets.
+                                We teach our students one on one twice a week for 9 to 12 weeks which allows us to develop 
+                                their skills and create a personalized trading plan centered around our proprietary 
+                                indicators. Upon completion of the training we will fund our students day trading accounts to 
+                                jump start them into live trading.  We do quarterly reviews and if profitability is maintained
+                                we continue to add funds to their day trading account (up to $100,000) with our students 
+                                keeping 60 to 80% of the profits.  We are truly committed to our students success
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600">
+                            </div>
                         </div>
                     </div>
 
