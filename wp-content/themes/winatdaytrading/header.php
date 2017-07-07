@@ -23,9 +23,9 @@
         'container'         => false,
         'menu_class'				=> '',
         'fallback_cb'				=> '__return_false',
-      	'items_wrap'				=> '<ul id="%1$s" class="navbar-nav mr-auto mt-2 mt-lg-0 %2$s">%3$s</ul>',
+      	'items_wrap'				=> my_nav_wrap(),
         'depth'							=> 2,
-				'walker'            => new b4st_walker_nav_menu()
+				'walker'            => new b4st_walker_nav_menu(),
       ) );
     ?>
 		<?php get_template_part('navbar-search'); ?>

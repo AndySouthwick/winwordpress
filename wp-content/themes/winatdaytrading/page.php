@@ -14,10 +14,10 @@ get_header();
                           
                            <?php if ( have_posts() ) : while ( have_posts() ) : ?>
                              <div class="row">
-                                 <?the_title( );?>
+                                 <?php the_title( );?>
                            </div>
                            <div class="row">
-                                <? the_post(); ?>
+                                <?php the_post(); ?>
                            </div>
                          
 
