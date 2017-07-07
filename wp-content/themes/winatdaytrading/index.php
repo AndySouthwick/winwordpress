@@ -68,41 +68,98 @@ get_header(); ?>
                                         <div class="card-block">
                                         <h4 class="card-title">Why Forex market?</h4>
                                         <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary">Learn More</a>
+                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
+
+                                <!-- Modal -->
+                                            <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                            <div class="modal-dialog" role="document">
+                                                <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    ...
+                                                </div>  
+                                                </div>
+                                            </div>
+                                            </div>
+
+
                                  <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_88185558-300x200.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Why we let our students trade our money?</h4>
                                         <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary">Learn More</a>
+                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
+                                            <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                            <div class="modal-dialog" role="document">
+                                                <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    ...
+                                                </div>
+                                  
+                                                </div>
+                                            </div>
+                                            </div>
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_107551065-300x150.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Forex coaching</h4>
                                         <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary">Learn More</a>
+                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
+                                            <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                            <div class="modal-dialog" role="document">
+                                                <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    ...
+                                                </div>                             
+                                                </div>
+                                            </div>
+                                            </div>
                                 <div class="col-md-3 d-flex justify-content-center">
                                         <div class="card" style="width: 20rem;">
                                             <img class="card-img-top" src="wp-content/uploads/2017/06/AdobeStock_76528287-300x237.jpeg" alt="Card image cap" height="250">
                                         <div class="card-block">
                                         <h4 class="card-title">Can I trade full time?</h4>
                                         <p class="card-text"></p>
-                                        <a href="#" class="btn btn-primary">Learn More</a>
+                                        <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#myModal4">Learn More</a>
                                         </div>
                                     </div>
                                 </div>
-                        
+                                         <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                            <div class="modal-dialog" role="document">
+                                                <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    ...
+                                                </div>
+                                                
+                                                </div>
+                                            </div>
+                                            </div>
 
                              
                         </div>
