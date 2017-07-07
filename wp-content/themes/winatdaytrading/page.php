@@ -5,7 +5,7 @@
  * @subpackage swickDevMedia
  * @since 2017
  */
-get_head();
+get_header();
 
 ?>
 
