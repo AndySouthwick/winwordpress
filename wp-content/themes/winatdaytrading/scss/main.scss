@@ -12,12 +12,13 @@ body{ overflow-x: hidden;
 
     body, html, .main {
     height: 100%;
-     padding-top: 2em;
+     padding-top: 3em;
 }
 
 section {
     min-height: 100%;
 }
+
 .bg-default{
 background: linear-gradient(rgba(255, 255, 255, 0.85), #ffffff);}
 nav a{

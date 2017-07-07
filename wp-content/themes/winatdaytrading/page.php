@@ -14,8 +14,7 @@ get_header();
                           
                            <?php if ( have_posts() ) : while ( have_posts() ) : ?>
                              <div class="row">
-                                 <?
-                           the_title( );?>
+                                 <?the_title( );?>
                            </div>
                            <div class="row">
                                 <? the_post(); ?>
