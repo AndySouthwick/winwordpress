@@ -9,9 +9,9 @@
 
 </head>
 
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?> data-spy="scroll" data-target=".navbar" data-offset="100">
 
-<nav class="navbar navbar-toggleable-md navbar-default bg-default fixed-top">
+<nav class="navbar navbar-toggleable-md navbar-light bg-default fixed-top">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -28,6 +28,6 @@
 				'walker'            => new b4st_walker_nav_menu(),
       ) );
     ?>
-		<?php get_template_part('navbar-search'); ?>
   </div>
+
 </nav>

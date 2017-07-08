@@ -9,7 +9,7 @@ html body{
 
 body{ overflow-x: hidden;
     width: 100%;
-   
+     position: relative;
     }
 
 .bg-default{
@@ -118,6 +118,12 @@ a{
     margin-right:8em;
 }
 
+.modal-content{
+  background-color: rgba(238, 238, 238, 0.92);
+}
+.modal-header{
+    background-color: rgba(238, 238, 238, 0.92);
+}
 @media only screen and (max-width: 500px) {
 //     .pagecontent{
 //   margin-top: 45em;
@@ -131,4 +137,6 @@ a{
 
 .compimg{
     margin-top: 8em;
+}
+.navbar-light .navbar-toggler-icon {
 }

@@ -18,7 +18,7 @@ get_header(); ?>
                  <iframe src="https://player.vimeo.com/video/209277371" width="100%" height="440" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
 
-                <div class="col-md-3 offset-md-1 textblock">
+                <div class="col-lg-3 offset-lg-1 textblock">
                     <h1 align="center">Day Trading Webinar</h1>
                     
                     <form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
@@ -170,7 +170,7 @@ get_header(); ?>
                                                     <h4 class="modal-title" id="myModalLabel">Can I trade full time?</h4>
                                                 </div>
                                                 <div class="modal-body">
-                                                   <p>Absolutely, however you will need to commit to trasnisitioning slowly. This is not a quick overnight solution to financial indipendence. 
+                                                   <p>Absolutely, however you will need to commit to transitioning slowly. This is not a quick overnight solution to financial Independence. 
                                                        Don't quit your full time job until you replace your income trading. When our traders get to this point, most of them continue to trade
                                                        part time and fill their time with something else.
                                                    </p>
