@@ -19,7 +19,7 @@ get_header(); ?>
                 </div>
 
                 <div class="col-lg-3 offset-lg-1 textblock">
-                    <h1 align="center">Day Trading Webinar</h1>
+                    <h1 align="center">Day Trading Webinar yesy</h1>
                     
                     <form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
                         <input name="inf_form_xid" type="hidden" value="d8c0aec2b125065607c18b779abb42a7" />
