@@ -10,7 +10,7 @@ get_header();
 ?>
 
                     	
-                    	<div class="container contactconatain">
+                    	<div class="container contactconatain margintop">
                           
  <?php while ( have_posts() ) : the_post(); ?>
                           <p> <?php  the_content(); ?></p>
