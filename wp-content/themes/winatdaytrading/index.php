@@ -265,7 +265,7 @@ get_header(); ?>
                         </div>
 
                       
-                        <div class="col-md-2">
+                        <div class="col-md-3 offset-md-8">
                             <i class="fa fa-facebook fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-twitter fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-youtube fa-4x" aria-hidden="true"></i>
