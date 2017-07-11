@@ -230,35 +230,35 @@ get_header(); ?>
                          
                             <div class="col-md-2 offset-md-2">
                                 <h4>Solutions</h4>
-                                <a href="#">How We Fund Your Account</a>
+                                <a href="/#aboutsection">How We Fund Your Account</a>
                                 
                             </div>
 
                              <div class="col-md-2">
                                 <h4>Platforms</h4>
                             
-                            <a href="#">Charting Software</a><br/>
-                             <a href="#">Trading Software</a><br/>
+                            <!--<a href="#">Charting Software</a><br/>
+                             <a href="#">Trading Software</a><br/>-->
                                                                        
                             </div>
 
                              <div class="col-md-2">
                                 <h4>Support</h4>
                             
-                            <a href="#">Help Center</a><br/>
-                            <a href="#">Knowledge Base</a><br/>
+                            <a href="/contact-us">Help Center</a><br/>
+                            <!--<a href="#">Knowledge Base</a><br/>
                             <a href="#">Integration</a><br/>
-                                                             
+                                                             -->
                             </div>
 
                              <div class="col-md-2">
                                 <h4>Company</h4>
                             
-                                <a href="#">Contact</a><br/>
-                                <a href="#">About</a><br/>
-                                <a href="#">Student Success</a><br/>
-                                <a href="#">Affiliate Program</a><br/>
-                                <a href="#">Office Location</a><br/>
+                                <a href="/contact-us">Contact</a><br/>
+                                <a href="/#aboutsection">About</a><br/>
+                                <!--<a href="#">Student Success</a><br/>-->
+                                <!--<a href="#">Affiliate Program</a><br/>-->
+                                <a href="/contact-us">Office Location</a><br/>
                                                               
                             </div>
 
@@ -269,7 +269,6 @@ get_header(); ?>
                             <i class="fa fa-facebook fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-twitter fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-youtube fa-4x" aria-hidden="true"></i>
-                            <i class="fa fa-slack fa-4x" aria-hidden="true"></i>
                         </div>
                     </div>
                      <div class="row">
