@@ -264,12 +264,12 @@ get_header(); ?>
 
                         </div>
 
-                        <div class="row">
-                        <div class="col-md-3 offset-md-10">
+                      
+                        <div class="col-md-2">
                             <i class="fa fa-facebook fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-twitter fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-youtube fa-4x" aria-hidden="true"></i>
-                        </div>
+                        
                     </div>
                      <div class="row">
                          <div class="col-lg-12" align="center">
