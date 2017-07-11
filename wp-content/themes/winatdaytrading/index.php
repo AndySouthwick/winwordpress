@@ -234,13 +234,13 @@ get_header(); ?>
                                 
                             </div>
 
-                             <div class="col-md-2">
+                             <!--<div class="col-md-2">
                                 <h4>Platforms</h4>
                             
-                            <!--<a href="#">Charting Software</a><br/>
-                             <a href="#">Trading Software</a><br/>-->
+                            <a href="#">Charting Software</a><br/>
+                             <a href="#">Trading Software</a><br/>
                                                                        
-                            </div>
+                            </div>-->
 
                              <div class="col-md-2">
                                 <h4>Support</h4>
