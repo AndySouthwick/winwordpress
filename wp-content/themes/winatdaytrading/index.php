@@ -268,7 +268,7 @@ get_header(); ?>
                         <div class="col-md-3 offset-md-9">
                             <a href="https://www.facebook.com/winatdaytrading/"><i class="fa fa-facebook fa-4x" aria-hidden="true"></i></a>
                             <i class="fa fa-twitter fa-4x" aria-hidden="true"></i>
-                            <i class="fa fa-youtube fa-4x" aria-hidden="true"></i>
+                            <a href="https://www.youtube.com/playlist?list=PLJezCTeAwKfNY5gZG1OAKGJJkZ9U3eYb7"><i class="fa fa-youtube fa-4x" aria-hidden="true"></i></a>
                         
                     </div>
                      <div class="row">
