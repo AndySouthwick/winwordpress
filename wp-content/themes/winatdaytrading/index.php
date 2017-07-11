@@ -228,7 +228,7 @@ get_header(); ?>
                             </div></div>         
                         <div class="row">
                          
-                            <div class="col-md-2 offset-md-2">
+                            <div class="col-md-2 offset-md-3">
                                 <h4>Solutions</h4>
                                 <a href="/#aboutsection">How We Fund Your Account</a>
                                 
@@ -265,7 +265,7 @@ get_header(); ?>
                         </div>
 
                       
-                        <div class="col-md-3 offset-md-8">
+                        <div class="col-md-3 offset-md-9">
                             <i class="fa fa-facebook fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-twitter fa-4x" aria-hidden="true"></i>
                             <i class="fa fa-youtube fa-4x" aria-hidden="true"></i>
