@@ -13,7 +13,6 @@ get_header();
                     	<div class="container contactconatain">
                           
  <?php while ( have_posts() ) : the_post(); ?>
-                    	<? the_title('<h3>', '</h3>'); ?>
                           <p> <?php  the_content(); ?></p>
                         <?php endwhile; ?>
 
