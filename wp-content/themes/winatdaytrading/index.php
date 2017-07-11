@@ -51,6 +51,7 @@ get_header(); ?>
                     <script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
                 </div>
+                
                  
             </div>
  </div>
@@ -188,7 +189,7 @@ get_header(); ?>
 
                         <div class="row ">
                             <div class="col-lg-6">
-                            <h2 class="wa-title"> Who is WinAtDayTrading?</h2>
+                            <h2 class="wa-title margintop"> Who is WinAtDayTrading?</h2>
                                 <b>Since 2008</b> we have taught everyday people the skills necessary to become successful day traders.  Whether they want to make a part time or full time income that up to them.  Over 90 % of our students become successful day traders winning at least 88% of their trades.  Our proprietary indicators give our students the edge necessary to successfully trade in today's markets.
                                 We teach our students one on one twice a week for 9 to 12 weeks which allows us to develop 
                                 their skills and create a personalized trading plan centered around our proprietary 
@@ -205,7 +206,7 @@ get_header(); ?>
 
                        <div class="fluid-container fourth-block" align="center" id="testimonialsection">
                        
-                            <h2> See What Some Of Our Students have To Say!</h2><hr/>
+                            <h2 class="margintop"> See What Some Of Our Students have To Say!</h2><hr/>
                        
                         <div class="row justify-content-center">
                             <div class="col-lg-3 quote "><img src="wp-content/uploads/2017/07/Team-4-150x150.jpg" class="img-circle" alt=""><h3>Josh Bingham</h3> <i>Tucson Arizona</i> <br/>"Learn the indicators. If you do, you'll never have to worry about money."</div>
