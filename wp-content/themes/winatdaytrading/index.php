@@ -18,10 +18,14 @@ get_header(); ?>
                  <iframe src="https://player.vimeo.com/video/209277371" width="100%" height="440" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
 
-                <div class="col-lg-3 offset-lg-1 textblock">
-                    <h1 align="center">Day Trading Webinar</h1>
+                <div class="col-lg-3 offset-lg-1 ">
+                <div class="textblock">
+                    <h1 align="center">Schedule My Webinar</h1>
                     
-                    <form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
+                                            <link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_38575_fb8a8de9b0"><span>Click Now</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
+
+                    </div>
+                    <!-- <form accept-charset="UTF-8" action="https://fq248.infusionsoft.com/app/form/process/d8c0aec2b125065607c18b779abb42a7" class="infusion-form" method="POST">
                         <input name="inf_form_xid" type="hidden" value="d8c0aec2b125065607c18b779abb42a7" />
                         <input name="inf_form_name" type="hidden" value="Web Form submitted" />
                         <input name="infusionsoft_version" type="hidden" value="1.67.0.44" />
@@ -47,7 +51,7 @@ get_header(); ?>
                             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 
                         </div>
-                    </form>
+                    </form> -->
                     <script type="text/javascript" src="https://fq248.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 
                 </div>
