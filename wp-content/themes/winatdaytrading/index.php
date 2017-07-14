@@ -204,11 +204,16 @@ get_header(); ?>
                             </div>
                             <div class="col-lg-6">
                                 <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600" class="compimg">
-                     <link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_38575_fb8a8de9b0"><span>Schedule Your Webinar</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
+                                <div class="row">
+                                <div class="col-lg-3">
+                                     <link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_38575_fb8a8de9b0"><span>Schedule Your Webinar</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
 
+                                        </div>
+                                    </div>
+                                
                             </div>
                         </div>
-                    </div>
+                    </div>4
 
                        <div class="fluid-container fourth-block" align="center" id="testimonialsection">
                        
