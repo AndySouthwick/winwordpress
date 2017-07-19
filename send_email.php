@@ -1,4 +1,4 @@
-
+<?php header("Location: http://winatdaytrading.com/thankyou") ?>
 <?php
  
 if(isset($_POST['email'])) {
@@ -30,44 +30,6 @@ if(isset($_POST['email'])) {
         die();
  
     }
- 
-     
- 
-    // validation expected data exists
- 
-  /*  if(!isset($_POST['age']) ||
- 
-        !isset($_POST['fn']) ||
- 
-        !isset($_POST['ln']) ||
- 
-        !isset($_POST['pg']) ||
- 
-        !isset($_POST['email']) ||
-		
-		 !isset($_POST['phone']) ||
-		 
-		  !isset($_POST['day']) ||
-		  
-		   !isset($_POST['month']) ||
-		   
-		    !isset($_POST['year']) ||
-			
-			 !isset($_POST['pos1']) ||
-			 
-			  !isset($_POST['pos2']) ||
-			  
-			   !isset($_POST['throws']) ||
-			   
-			    !isset($_POST['bats'])) {
- 
-        died('We are sorry, but there appears to be a problem with the form you submitted.');      
- 
-    }*/
- 
-     
-
-	
     $first_name = $_POST['fname']; // required
  
     $last_name = $_POST['lname']; // required
@@ -166,5 +128,5 @@ $headers = 'From: '.$email_from."\r\n".
 }
  
 ?>
-<?php header("Location: http://winatdaytrading.com/thankyou") ?>
+
  
