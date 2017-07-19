@@ -7,9 +7,9 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "kdeck6@aol.com";
+    $email_to = "asouthwick01@gmail.com, romeyking44@gmail.com, jayblain7@gmail.com";
  
-    $email_subject = "Tryout Form Submitted";
+    $email_subject = "Contact Us Form Submitted winatdaytrading";
  
      
  
