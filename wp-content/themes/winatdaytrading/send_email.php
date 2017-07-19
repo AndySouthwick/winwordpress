@@ -1,4 +1,4 @@
-<?php header("Location: http://winatdaytrading.com/thankyou") ?>
+<?php header("Location: http://winatdaytrading.com/thank-you") ?>
 <?php
  
 if(isset($_POST['email'])) {
