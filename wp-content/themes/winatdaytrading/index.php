@@ -17,8 +17,7 @@ TEXT 'Daily' to 385-448-4055</span>
                 <!--<video width="100%" controls>
                     <source src="wp-content/uploads/2017/07/3-Min-Video-Webinar-1.mp4" type="video/mp4">
                  </video>-->
-                 <iframe src="https://player.vimeo.com/video/209277371" width="100%" height="440" frameborder="0" title="3-Min-Video-Webinar" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/0ElnY8me9hU?start=1" frameborder="0" allowfullscreen></iframe>                </div>
 
                 <div class="col-lg-3 offset-lg-1 ">
                 <div class="textblock">
