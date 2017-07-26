@@ -7,8 +7,11 @@ get_header(); ?>
 
             <div class="row">
                 <div class="jtrondown">
-                <span class="red">Want to see our group's daily trades?  
-TEXT 'Daily' to 385-448-4055</span>
+                <div class="row">
+                                <span class="red">Want to see our group's daily trades?  
+TEXT 'Daily' to <a href="SMS:385-448-4055">385-448-4055</a></span>
+                </div>
+
                         <h1 class="display-3"><?php bloginfo('name'); ?></h1>
                 </div>
             </div>
