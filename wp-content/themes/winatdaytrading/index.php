@@ -25,7 +25,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
 
                 <div class="col-lg-3 offset-lg-1 ">
                 <div class="textblock">
-                    <h1 align="center">Schedule My autoplay=1</h1>
+                    <h1 align="center">Schedule My</h1>
                     
                                             <link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_38575_fb8a8de9b0"><span>Click Now</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
 
